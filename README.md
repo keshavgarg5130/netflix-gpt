@@ -1,7 +1,8 @@
 # netflix gpt
 - create react app
 - configure tailwind css
-
+- Header
+- login form 
 # features
 - home page 
 - signin page 
