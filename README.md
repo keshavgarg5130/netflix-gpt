@@ -3,6 +3,15 @@
 - configure tailwind css
 - Header
 - login form 
+- form validation
+- useRef hook
+- firebase
+- deploy through firebase
+- signup the user 
+- created redux store with userSlice
+-implement sign out
+-update user profile
+
 # features
 - home page 
 - signin page 
